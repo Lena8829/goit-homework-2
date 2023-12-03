@@ -59,7 +59,7 @@ ol {
   color: #2e2f42;
 }
 .header-list .link-nav {
-  color: #2e2f42;
+  color: #434455;
   font-family: Roboto;
   font-size: 16px;
   font-style: normal;
@@ -135,6 +135,7 @@ ol {
 .team-list {
 }
 .team-list-item {
+  background-color: #ffffff;
 }
 .team-card {
 }
