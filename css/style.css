@@ -74,6 +74,9 @@ ol {
   color: #404bbf;
 }
 
+address {
+  font-style: normal;
+}
 .contacts .contact-link {
   font-family: Roboto, sans-serif;
   font-size: 16px;
