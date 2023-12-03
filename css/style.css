@@ -73,13 +73,10 @@ ol {
 .nav-list .nav-link:focus {
   color: #404bbf;
 }
-.header-list .link-nav:active {
-  text-decoration: underline;
-}
 
 .contacts {
   color: #434455;
-  font-family: Roboto;
+  font-family: Roboto, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
