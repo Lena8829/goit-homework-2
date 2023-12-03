@@ -59,7 +59,7 @@ ol {
 .logo-dark {
   color: #2e2f42;
 }
-.nav-list .nav-item {
+.nav-list .nav-link {
   color: #2e2f42;
   font-family: Roboto;
   font-size: 16px;
@@ -69,8 +69,8 @@ ol {
   letter-spacing: 0.02em;
   text-decoration: none;
 }
-.nav-list .nav-item:hover,
-.nav-list .nav-item:focus {
+.nav-list .nav-link:hover,
+.nav-list .nav-link:focus {
   color: #404bbf;
 }
 .header-list .link-nav:active {
