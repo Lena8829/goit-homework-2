@@ -74,7 +74,7 @@ ol {
   color: #404bbf;
 }
 
-.contacts {
+.contacts .contact-link {
   color: #434455;
   font-family: Roboto, sans-serif;
   font-size: 16px;
