@@ -3,10 +3,6 @@
 body {
   color: #434455;
   font-family: Roboto;
-  font-size: 14px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: 140%; /* 19.6px */
   background: #fff;
 }
 ul,
@@ -37,7 +33,7 @@ ol {
 }
 /* p */
 .text {
-  color: inherit;
+  color: #434455;
   font-family: Roboto;
   font-size: 16px;
   font-style: normal;
@@ -48,12 +44,12 @@ ol {
 
 /* Header - Section - Top Line */
 .header .menu-nav {
+  border-bottom: 1px solid #e7e9fc;
+  background: #fff;
 }
 .logo {
   display: inline-flex;
   height: 24px;
-  align-items: center;
-  flex-shrink: 0;
   color: #4d5ae5;
   font-family: Raleway;
   font-size: 18px;
@@ -161,4 +157,48 @@ ol {
     0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 .team-card {
+}
+
+/* Portfolio Section */
+.portfolio {
+  background-color: #fff;
+}
+.portf-list {
+}
+.portf-list-item {
+}
+.portf-img {
+}
+
+/* Footer */
+.footer {
+  width: 1440px;
+  height: 312px;
+  flex-shrink: 0;
+  background-color: #2e2f42;
+}
+.logo {
+  display: inline-flex;
+  height: 24px;
+  color: #4d5ae5;
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.16;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.logo-light {
+  color: #f4f4fd;
+}
+.footer-text {
+  color: #f4f4fd;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
